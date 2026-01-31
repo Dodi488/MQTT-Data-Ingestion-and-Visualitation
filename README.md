@@ -359,30 +359,3 @@ For production deployment:
 3. Use SSL/TLS certificates for database connections
 4. Rotate credentials regularly
 5. Implement rate limiting and input validation
-
-## Extending the Project
-
-Ideas for enhancement:
-- Add more sensor types (temperature, humidity, pressure)
-- Implement data aggregation and analytics
-- Add alerting system for threshold violations
-- Create historical data analysis features
-- Implement data export functionality
-- Add user authentication to dashboard
-- Create mobile-responsive interface
-
-## License
-
-This project is for educational purposes as part of IoT coursework.
-
-## Author
-
-Created for IoT Course - U1 Activity 3
-
-## Support
-
-For issues or questions:
-1. Check the troubleshooting section
-2. Verify all prerequisites are installed
-3. Review the configuration settings
-4. Check the console output for error messages
