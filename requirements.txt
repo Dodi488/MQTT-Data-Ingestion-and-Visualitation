@@ -1,0 +1,27 @@
+# Python Dependencies for IoT Data Ingestion Pipeline
+# Install with: pip install -r requirements.txt
+
+# MQTT Client Library
+paho-mqtt==1.6.1
+
+# PostgreSQL Database Adapter
+psycopg2-binary==2.9.9
+
+# Data Processing
+pandas==2.1.4
+numpy==1.26.2
+
+# Database ORM (optional, for advanced usage)
+SQLAlchemy==2.0.23
+
+# Streamlit for Dashboard
+streamlit==1.29.0
+
+# Data Visualization
+plotly==5.18.0
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Utilities
+python-dotenv==1.0.0
+requests==2.31.0
